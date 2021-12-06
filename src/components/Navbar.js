@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Navitem from './Navitem';
-
 class Navbar extends Component {
     constructor(props)
     {
@@ -31,6 +30,5 @@ class Navbar extends Component {
             )
         }
     }
-    
     export default Navbar
     
