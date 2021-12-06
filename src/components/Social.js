@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 class Social extends Component {
     render() {
         return (
@@ -11,6 +10,5 @@ class Social extends Component {
             )
         }
     }
-    
-export default Social
+    export default Social
     
